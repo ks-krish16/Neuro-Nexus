@@ -107,7 +107,7 @@ Our web dashboard, built using **Node js**, provides:
 **Hardware:** EEG Sensors, AD620, OPA2277, Raspberry Pi  
 **Automation:** n8n (for automated alerts)
 
----
+**Our live website:** https://neuro-nexus-lfju.onrender.com
 
 
 
@@ -123,7 +123,7 @@ Our web dashboard, built using **Node js**, provides:
 - 🎮 **Gamified Cognitive Dashboard:**  
   Introducing a focus-based scoring system and streak tracker to motivate users and enhance mental performance through gamification.
 
----
+
 
 
 
